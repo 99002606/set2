@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\training\documents\genesisset2\fraction\main.cpp
+	<iostream>
+
+1600824792 source:c:\users\training\documents\genesisset2\fraction\fraction.cc
+	<bits/stdc++.h>
+	"fraction.h"
+	<numeric>
+
+1600824747 c:\users\training\documents\genesisset2\fraction\fraction.h
+
+1600825128 source:c:\users\training\documents\genesisset2\fraction\fraction_test.cc
+	"fraction.h"
+	<gtest/gtest.h>
+	<iostream>
+

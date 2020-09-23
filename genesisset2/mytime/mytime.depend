@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600830032 source:c:\users\training\documents\genesisset2\mytime\mytime.cc
+	<iostream>
+	"mytime.h"
+
+1600830013 c:\users\training\documents\genesisset2\mytime\mytime.h
+
+1600830032 source:c:\users\training\documents\genesisset2\mytime\mytime_test.cc
+	"mytime.h"
+	<gtest/gtest.h>
+

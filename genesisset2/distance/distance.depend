@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600823863 source:c:\users\training\documents\genesisset2\distance\distance.cc
+	"distance.h"
+	<iostream>
+
+1600823863 c:\users\training\documents\genesisset2\distance\distance.h
+
+1600823863 source:c:\users\training\documents\genesisset2\distance\distance_test.cc
+	<iostream>
+	"distance.h"
+	<gtest/gtest.h>
+
+1584205420 source:c:\users\training\documents\genesisset2\distance\main.cpp
+	<iostream>
+
